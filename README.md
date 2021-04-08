@@ -10,5 +10,6 @@ Un blog increíble para el curso de git  y github
 * otra cosa
 * creado por el increible batman
 * incluye ejemplos en windows, linux y mac
+* disponible para todas las edades
 
 Este readme.md  es un chiste, no tomarlo en serio

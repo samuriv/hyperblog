@@ -8,5 +8,6 @@ Un blog increíble para el curso de git  y github
 * El flujo de trabajo  en github
 * otra cosa
 * otra cosa
+* creado por el increible batman
 
 Este readme.md  es un chiste, no tomarlo en serio
